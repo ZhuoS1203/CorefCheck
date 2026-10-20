@@ -1,9 +1,6 @@
 # CoreCheck
 a coreference-aware dual-granularity fact verification framework for complex claims.
 
-# CoreCheck
-a coreference-aware dual-granularity fact verification framework for complex claims.
-
 # Gold evidence
 
 cd CorefCheck
